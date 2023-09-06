@@ -61,6 +61,8 @@ python3 bitcoin_tracker.py
 
 Le script récupérera les données de prix du Bitcoin, les tracera et affichera le graphique dans python launcher.
 
+![bitcoin_price-analysis](https://i.imgur.com/9VjuRcEl.png)
+
 <h3> Extension et Contribution: </h3>
 
 N'hésitez pas à étendre ce script pour suivre d'autres cryptomonnaies ou implémenter des analyses plus avancées. Les contributions et les améliorations sont les bienvenues.
